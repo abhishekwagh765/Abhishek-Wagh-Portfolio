@@ -74,7 +74,7 @@ Nmap Scanner, Wireshark, Metasploit, Angry IP-Scanner, OWASP ZAP, Splunk, Nessus
 </div>
 
 ## Projects
-1.Red-Team Simulation Penetration Lab:
+<img src="https://img.shields.io/badge/-Red-Team Simulation Penetration Lab:-000080?&style=for-the-badge&logoColor=white" />
 
 Developed and implemented a sophisticated home lab environment to simulate real-world cybersecurityscenarios, enabling advanced testing and hands-on learning.
 
@@ -84,7 +84,7 @@ Utilized industry-standard tools such as Wireshark, Nmap, Metasploit Framework, 
 
 Conducted 40+ penetration tests on different network to identify vulnerabilities and applied patches with hands- on Network security, Threat detection, and Incident response in a controlled environment. 
 
-2.Metasploit Payload Development:
+<img src="https://img.shields.io/badge/-Metasploit Payload Development-:-000080?&style=for-the-badge&logoColor=white" />
 
 Designed and implemented custom payloads for penetration testing using the Metasploit Framework, enhancing capabilities for exploit delivery and post-exploitation tasks.
 
