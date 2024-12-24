@@ -3,8 +3,6 @@
 
 Cybersecurity enthusiast with hands-on experience in penetration testing, vulnerability assessments, and incident response. As a Cybersecurity Analyst Intern at Aarna Technologies, I gained expertise in real-time threat analysis, malware detection, and security event management using industry-standard tools. My technical skills include ethical hacking, network analysis, and malware analysis, with certifications such as Certified Ethical Hacker (CEH) and Certified in Cybersecurity (ISC2) bolstering my credentials. Proficient in tools like Nessus, Metasploit, and Wireshark, I am passionate about leveraging advanced methodologies to address complex cybersecurity challenges and enhance security resilience.
 
-
-
 I am a recent graduate with a profound interest in Cybersecurity and a dedication to solving complex problems.
 
 ## Objective
@@ -60,7 +58,7 @@ Nmap Scanner, Wireshark, Metasploit, Angry IP-Scanner, OWASP ZAP, Splunk, Nessus
 </div>
 
 ## Projects
-Red-Team Simulation Penetration Lab
+1.Red-Team Simulation Penetration Lab
 
 Developed and implemented a sophisticated home lab environment to simulate real-world cybersecurity
 scenarios, enabling advanced testing and hands-on learning.
@@ -71,8 +69,10 @@ Utilized industry-standard tools such as Wireshark, Nmap, Metasploit Framework, 
 
 Conducted 40+ penetration tests on different network to identify vulnerabilities and applied patches with hands- on Network security, Threat detection, and Incident response in a controlled environment. 
 
-Metasploit Payload Development
+2.Metasploit Payload Development
 
 Designed and implemented custom payloads for penetration testing using the Metasploit Framework, enhancing capabilities for exploit delivery and post-exploitation tasks.
+
 Developed and tested multi-platform meterpreter payloads using encoders tailored to specific testing scenarios, ensuring adaptability in diverse environments.
+
 Conducted rigorous testing to evade detection mechanism software, intrusion detection systems and improving payload stealth and effectiveness.
