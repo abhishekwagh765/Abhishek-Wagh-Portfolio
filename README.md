@@ -11,7 +11,7 @@ My journey in computer science has cultivated a deep passion for cybersecurity, 
 
 ## Internships / Work Experience
 <div>
-    <img src="https://img.shields.io/badge/-Cybersecurity Intern– Aarna Technologies Pune, India    Mar2024 – July 2024-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cybersecurity Intern– Aarna Technologies Pune, India    Mar2024 – July 2024-4D4D4D?&style=for-the-badge&logo=Netsparker&logoColor=white" />
 </div>
 
 Engaged in real-time cybersecurity training and internship in a live environment, gaining hands-on experiencewith practical security challenges. 
