@@ -11,7 +11,7 @@ My journey in computer science has cultivated a deep passion for cybersecurity, 
 
 ## Internships / Work Experience
 <div>
-    <img src="https://img.shields.io/badge/-Cybersecurity Intern– Aarna Technologies Pune, India    Mar2024 – July 2024-4D4D4D?&style=for-the-badge&logo=Netsparker&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cybersecurity Intern– Aarna Technologies Pune, India   Mar2024 – July 2024-4D4D4D?&style=for-the-badge&logo=Netsparker&logoColor=white" />
 </div>
 
 Engaged in real-time cybersecurity training and internship in a live environment, gaining hands-on experiencewith practical security challenges. 
@@ -74,6 +74,7 @@ Nmap Scanner, Wireshark, Metasploit, Angry IP-Scanner, OWASP ZAP, Splunk, Nessus
 </div>
 
 ## Projects
+
 <div>
     <img src="https://img.shields.io/badge/-Red-Team Simulation Penetration Lab:-4D4D4D?&style=for-the-badge&logo=Netsparker&logoColor=white" />
 </div>
@@ -84,6 +85,7 @@ Assembled a sophisticated multi-VM architecture using VirtualBox to replicate in
 Utilized industry-standard tools such as Wireshark, Nmap, Metasploit Framework, and Nessus to perform network monitoring, vulnerability assessments, penetration testing, and intrusion detection to enhance security posture. 
 
 Conducted 40+ penetration tests on different network to identify vulnerabilities and applied patches with hands- on Network security, Threat detection, and Incident response in a controlled environment. 
+
 <div>
  <img src="https://img.shields.io/badge/-Metasploit Payload Development-4D4D4D?&style=for-the-badge&logo=Netsparker&logoColor=white" />
 </div>
