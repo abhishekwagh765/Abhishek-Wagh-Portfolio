@@ -79,18 +79,13 @@ Nmap Scanner, Wireshark, Metasploit, Angry IP-Scanner, OWASP ZAP, Splunk, Nessus
     <img src="https://img.shields.io/badge/-Red Team Simulation Penetration Lab:-4D4D4D?&style=for-the-badge&logo=Netsparker&logoColor=white" />
 </div>
 Developed and implemented a sophisticated home lab environment to simulate real-world cybersecurityscenarios, enabling advanced testing and hands-on learning.
-
 Assembled a sophisticated multi-VM architecture using VirtualBox to replicate intricate networking situations;achieved significant improvement in troubleshooting skills by conducting 20+ detailed tests focused on system responses during attacks.
-
 Utilized industry-standard tools such as Wireshark, Nmap, Metasploit Framework, and Nessus to perform network monitoring, vulnerability assessments, penetration testing, and intrusion detection to enhance security posture. 
-
 Conducted 40+ penetration tests on different network to identify vulnerabilities and applied patches with hands- on Network security, Threat detection, and Incident response in a controlled environment. 
 
 <div>
  <img src="https://img.shields.io/badge/-Metasploit Payload Development-4D4D4D?&style=for-the-badge&logo=Netsparker&logoColor=white" />
 </div>
 Designed and implemented custom payloads for penetration testing using the Metasploit Framework, enhancing capabilities for exploit delivery and post-exploitation tasks.
-
 Developed and tested multi-platform meterpreter payloads using encoders tailored to specific testing scenarios, ensuring adaptability in diverse environments.
-
 Conducted rigorous testing to evade detection mechanism software, intrusion detection systems and improving payload stealth and effectiveness.
