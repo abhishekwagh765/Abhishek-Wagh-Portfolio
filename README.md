@@ -75,8 +75,7 @@ Nmap Scanner, Wireshark, Metasploit, Angry IP-Scanner, OWASP ZAP, Splunk, Nessus
 
 ## Projects
 <div>
-    
-<img src="https://img.shields.io/badge/-Red_Team_Simulation_Penetration_Lab-:-000080?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cybersecurity Intern– Aarna Technologies Pune, India    Mar2024 – July 2024-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 Developed and implemented a sophisticated home lab environment to simulate real-world cybersecurityscenarios, enabling advanced testing and hands-on learning.
 
