@@ -8,9 +8,8 @@ Cybersecurity enthusiast with hands-on experience in penetration testing, vulner
 I am a recent graduate with a profound interest in Cybersecurity and a dedication to solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer science has cultivated a deep passion for cybersecurity, driving me to pursue a transition into this dynamic field. I am particularly focused on securing a role in Vulnerability Assessment and Penetration Testing (VAPT), where I can leverage my technical expertise and hands-on experience to identify and mitigate security vulnerabilities effectively.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
