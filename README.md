@@ -10,7 +10,9 @@ I am a recent graduate with a profound interest in Cybersecurity and a dedicatio
 My journey in computer science has cultivated a deep passion for cybersecurity, driving me to pursue a transition into this dynamic field. I am particularly focused on securing a role in Vulnerability Assessment and Penetration Testing (VAPT), where I can leverage my technical expertise and hands-on experience to identify and mitigate security vulnerabilities effectively.
 
 ## Internships / Work Experience
-Cybersecurity Intern– Aarna Technologies Pune, India    Mar2024 – July 2024
+<div>
+    <img src="https://img.shields.io/badge/-Cybersecurity Intern– Aarna Technologies Pune, India    Mar2024 – July 2024-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+</div>
 
 Engaged in real-time cybersecurity training and internship in a live environment, gaining hands-on experiencewith practical security challenges. 
 
