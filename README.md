@@ -75,7 +75,7 @@ Nmap Scanner, Wireshark, Metasploit, Angry IP-Scanner, OWASP ZAP, Splunk, Nessus
 
 ## Projects
 <div>
-    <img src="https://img.shields.io/badge/-Cybersecurity Intern– Aarna Technologies Pune, India    Mar2024 – July 2024-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Red-Team Simulation Penetration Lab:-4D4D4D?&style=for-the-badge&logo=Netsparker&logoColor=white" />
 </div>
 Developed and implemented a sophisticated home lab environment to simulate real-world cybersecurityscenarios, enabling advanced testing and hands-on learning.
 
@@ -85,7 +85,7 @@ Utilized industry-standard tools such as Wireshark, Nmap, Metasploit Framework, 
 
 Conducted 40+ penetration tests on different network to identify vulnerabilities and applied patches with hands- on Network security, Threat detection, and Incident response in a controlled environment. 
 <div>
-<img src="https://img.shields.io/badge/-Metasploit Payload Development-:-000080?&style=for-the-badge&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Metasploit Payload Development-4D4D4D?&style=for-the-badge&logo=Netsparker&logoColor=white" />
 </div>
 Designed and implemented custom payloads for penetration testing using the Metasploit Framework, enhancing capabilities for exploit delivery and post-exploitation tasks.
 
