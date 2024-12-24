@@ -27,7 +27,7 @@ My journey in computer science has cultivated a deep passion for cybersecurity, 
 | Cloud Computing |
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+Nmap Scanner, Wireshark, Metasploit, Angry IP-Scanner, OWASP ZAP, Splunk, Nessus, Pentbox, VeraCrypt, Burp suite, Snort, Hydra, John The Ripper, Linux, Parrot OS, Windows.
 
 ### Network
 <div>
