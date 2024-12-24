@@ -38,7 +38,7 @@ Nmap Scanner, Wireshark, Metasploit, Angry IP-Scanner, OWASP ZAP, Splunk, Nessus
 <div>
      <img src="https://img.shields.io/badge/-Metasploit-EF3B2D?&style=for-the-badge&logo=Metasploit&logoColor=white" />
      <img src="https://img.shields.io/badge/-Nessus-00A4EF?&style=for-the-badge&logo=Nessus&logoColor=white" />
-     <img src="https://img.shields.io/badge/-OWASP_ZAP-00A4EF?&style=for-the-badge&logo=OWASP_ZAP&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OWASP_ZAP-006400?&style=for-the-badge&logoColor=white" />
      <img src="https://img.shields.io/badge/-Burp_Suite-4B275F?&style=for-the-badge&logo=Burp_Suite&logoColor=white" />
 </div>
 
