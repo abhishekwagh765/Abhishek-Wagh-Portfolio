@@ -5,7 +5,7 @@ Cybersecurity enthusiast with hands-on experience in penetration testing, vulner
 
 
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a recent graduate with a profound interest in Cybersecurity and a dedication to solving complex problems.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
