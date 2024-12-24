@@ -65,15 +65,14 @@
         <p><a href="mailto:abhishekwagh1204@gmail.com">abhishekwagh1204@gmail.com</a> | +91 9767165543</p>
         <p><a href="https://www.linkedin.com/in/abhishekwagh7/" target="_blank">LinkedIn</a> | Dhule, Maharashtra, India</p>
     </header>
-
-    <div class="container">
+ <div class="container">
         <div class="section">
             <h2>Education</h2>
             <p><strong>SSVPS B.S.D College of Engineering</strong>, Dhule, Maharashtra, India (July 2020 - May 2024)</p>
             <p>B.Tech in Computer Science | CGPA: 8.77</p>
         </div>
 
-        <div class="section">
+  <div class="section">
             <h2>Experience</h2>
             <p><strong>Cybersecurity Intern</strong> – Aarna Technologies, Pune, India (Mar 2024 – Jul 2024)</p>
             <ul>
@@ -83,7 +82,7 @@
             </ul>
         </div>
 
-        <div class="section">
+  <div class="section">
             <h2>Projects</h2>
             <ul>
                 <li><strong>Red-Team Simulation Penetration Lab:</strong> Developed a multi-VM lab using VirtualBox, conducted 40+ penetration tests, and enhanced system responses to attacks using tools like Wireshark and Metasploit.</li>
@@ -91,13 +90,13 @@
             </ul>
         </div>
 
-        <div class="section">
+  <div class="section">
             <h2>Skills</h2>
             <p><strong>Technical Skills:</strong> Ethical Hacking, Network Analysis, Incident Response, Malware Analysis, Vulnerability Assessments, Penetration Testing, SQL Injection, Cryptography, Cloud Computing</p>
             <p><strong>Tools:</strong> Nmap, Wireshark, Metasploit, Nessus, Burp Suite, Splunk, Snort, Hydra, John the Ripper, Linux, Parrot OS, Windows</p>
         </div>
 
-        <div class="section">
+ <div class="section">
             <h2>Certifications</h2>
             <ul>
                 <li><strong>Certified Ethical Hacker (CEH):</strong> ECC2914386057</li>
