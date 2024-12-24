@@ -10,6 +10,15 @@ I am a recent graduate with a profound interest in Cybersecurity and a dedicatio
 My journey in computer science has cultivated a deep passion for cybersecurity, driving me to pursue a transition into this dynamic field. I am particularly focused on securing a role in Vulnerability Assessment and Penetration Testing (VAPT), where I can leverage my technical expertise and hands-on experience to identify and mitigate security vulnerabilities effectively.
 
 ## Internships / Work Experience
+Cybersecurity Intern– Aarna Technologies Pune, India    Mar2024 – July 2024
+
+Engaged in real-time cybersecurity training and internship in a live environment, gaining hands-on experiencewith practical security challenges. 
+
+Monitored and triaged security events proactively, analysing security alerts to determine whether they were false positives or actual security incidents, leveraging a range of tools and log files.
+
+Conducted comprehensive vulnerability assessments and Malware analysis using industry-standard tools such as Nessus and Any-Run, generating detailed reports and providing actionable recommendations for risk mitigation.
+
+Recognize potential, successful, and unsuccessful intrusion attempts and compromises through reviews andanalysis of relevant event detail and summary information.
 
 ## Skills
 
