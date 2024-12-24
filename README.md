@@ -74,7 +74,7 @@ Nmap Scanner, Wireshark, Metasploit, Angry IP-Scanner, OWASP ZAP, Splunk, Nessus
 </div>
 
 ## Projects
-<img src="https://img.shields.io/badge/-Red-Team Simulation Penetration Lab:-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Red_Team_Simulation_Penetration_Lab-:-000080?&style=for-the-badge&logoColor=white" />
 
 Developed and implemented a sophisticated home lab environment to simulate real-world cybersecurityscenarios, enabling advanced testing and hands-on learning.
 
