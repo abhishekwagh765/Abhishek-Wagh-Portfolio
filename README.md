@@ -50,14 +50,14 @@ Nmap Scanner, Wireshark, Metasploit, Angry IP-Scanner, OWASP ZAP, Splunk, Nessus
     <img src="https://img.shields.io/badge/-Wazuh-005571?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
 
-## Certifications
+## Certifications / Achievements
 
 <div>
 <img src="https://img.shields.io/badge/-Certified_Ethical_Hacker(CEH)-FF0000?&style=for-the-badge&logo=CEH&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-ISC2-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cisco Certified Hacker-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google Cybersecurity Foundation-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-TryHachMe-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## Projects
