@@ -66,7 +66,10 @@ Nmap Scanner, Wireshark, Metasploit, Angry IP-Scanner, OWASP ZAP, Splunk, Nessus
 ## Certifications / Achievements
 
 <div>
-<img src="https://img.shields.io/badge/-Certified_Ethical_Hacker(CEH)-FF0000?&style=for-the-badge&logo=CEH&logoColor=white" />
+<a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=m7kC/ALkng/twKdmgxCiuXPw/oldTSyeNT/yrE4zDsI=" target="_blank">
+    <img src="https://img.shields.io/badge/-Certified_Ethical_Hacker(CEH)-FF0000?&style=for-the-badge&logo=CEH&logoColor=white" alt="Certified Ethical Hacker (CEH) Badge">
+</a>
+
 <img src="https://img.shields.io/badge/-ISC2-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Cisco Certified Hacker-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google Cybersecurity Foundation-006400?&style=for-the-badge&logoColor=white" />
