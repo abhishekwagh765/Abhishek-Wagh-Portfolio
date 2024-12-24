@@ -1,60 +1,112 @@
 # Hello, I'm Abhishek
-<a href="https://www.linkedin.com/in/abhishekwagh7/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Abhishek Ravindra Wagh | Cybersecurity Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        header {
+            background: #007acc;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            padding: 20px;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section h2 {
+            border-bottom: 2px solid #007acc;
+            display: inline-block;
+            margin-bottom: 10px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            background: #e4e4e4;
+            margin: 5px 0;
+            padding: 10px;
+            border-left: 4px solid #007acc;
+        }
+        a {
+            color: #007acc;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Abhishek Ravindra Wagh</h1>
+        <p>Cybersecurity Intern | Ethical Hacker | B.Tech in Computer Science</p>
+        <p><a href="mailto:abhishekwagh1204@gmail.com">abhishekwagh1204@gmail.com</a> | +91 9767165543</p>
+        <p><a href="https://www.linkedin.com/in/abhishekwagh7/" target="_blank">LinkedIn</a> | Dhule, Maharashtra, India</p>
+    </header>
 
-## Objective
-[Provide Objective - Remove this afterwards]]
+    <div class="container">
+        <div class="section">
+            <h2>Education</h2>
+            <p><strong>SSVPS B.S.D College of Engineering</strong>, Dhule, Maharashtra, India (July 2020 - May 2024)</p>
+            <p>B.Tech in Computer Science | CGPA: 8.77</p>
+        </div>
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+        <div class="section">
+            <h2>Experience</h2>
+            <p><strong>Cybersecurity Intern</strong> – Aarna Technologies, Pune, India (Mar 2024 – Jul 2024)</p>
+            <ul>
+                <li>Engaged in real-time cybersecurity training and monitored security events to identify and mitigate threats.</li>
+                <li>Conducted vulnerability assessments and malware analysis using Nessus and Any-Run.</li>
+                <li>Analyzed security incidents and provided actionable recommendations for risk mitigation.</li>
+            </ul>
+        </div>
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+        <div class="section">
+            <h2>Projects</h2>
+            <ul>
+                <li><strong>Red-Team Simulation Penetration Lab:</strong> Developed a multi-VM lab using VirtualBox, conducted 40+ penetration tests, and enhanced system responses to attacks using tools like Wireshark and Metasploit.</li>
+                <li><strong>Metasploit Payload Development:</strong> Designed custom payloads for penetration testing, improving stealth and effectiveness, while evading detection mechanisms.</li>
+            </ul>
+        </div>
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+        <div class="section">
+            <h2>Skills</h2>
+            <p><strong>Technical Skills:</strong> Ethical Hacking, Network Analysis, Incident Response, Malware Analysis, Vulnerability Assessments, Penetration Testing, SQL Injection, Cryptography, Cloud Computing</p>
+            <p><strong>Tools:</strong> Nmap, Wireshark, Metasploit, Nessus, Burp Suite, Splunk, Snort, Hydra, John the Ripper, Linux, Parrot OS, Windows</p>
+        </div>
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
-
-## Projects
-- Detection Lab
-- SOC Automation Project
+        <div class="section">
+            <h2>Certifications</h2>
+            <ul>
+                <li><strong>Certified Ethical Hacker (CEH):</strong> ECC2914386057</li>
+                <li><strong>Certified in Cybersecurity (ISC2):</strong> 205fdc31-a622-4d93-9c19-6410f3dc9462</li>
+                <li><strong>Cisco Networking Academy:</strong> Verification No. 2265442b-49a7-48f7-aa1e-070c1fd685ec</li>
+                <li><strong>Google Cybersecurity Foundation Certification:</strong> Mastered threat detection and risk management concepts.</li>
+                <li><strong>TryHackMe:</strong> Completed various Red Team labs, enhancing penetration testing skills.</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
