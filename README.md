@@ -40,6 +40,7 @@ Nmap Scanner, Wireshark, Metasploit, Angry IP-Scanner, OWASP ZAP, Splunk, Nessus
      <img src="https://img.shields.io/badge/-Nessus-00A4EF?&style=for-the-badge&logo=Nessus&logoColor=white" />
     <img src="https://img.shields.io/badge/-OWASP_ZAP-006400?&style=for-the-badge&logoColor=white" />
      <img src="https://img.shields.io/badge/-Burp_Suite-4B275F?&style=for-the-badge&logo=Burp_Suite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ZAP_Proxy-4D4D4D?&style=for-the-badge&logo=ZAP_Proxy&logoColor=white" />
 </div>
 
 ### SIEM
