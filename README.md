@@ -60,8 +60,8 @@ Nmap Scanner, Wireshark, Metasploit, Angry IP-Scanner, OWASP ZAP, Splunk, Nessus
 ## Projects
 1.Red-Team Simulation Penetration Lab
 
-Developed and implemented a sophisticated home lab environment to simulate real-world cybersecurity
-scenarios, enabling advanced testing and hands-on learning.
+Developed and implemented a sophisticated home lab environment to simulate real-world cybersecurityscenarios, enabling advanced testing and hands-on learning.
+
 Assembled a sophisticated multi-VM architecture using VirtualBox to replicate intricate networking situations;achieved significant improvement in troubleshooting skills by conducting 20+ detailed tests focused on system responses during attacks.
 
 Utilized industry-standard tools such as Wireshark, Nmap, Metasploit Framework, and Nessus to perform network monitoring, vulnerability assessments, penetration testing, and intrusion detection to enhance security posture. 
