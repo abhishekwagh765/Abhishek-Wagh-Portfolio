@@ -16,12 +16,15 @@ My journey in computer science has cultivated a deep passion for cybersecurity, 
 
 | Skill                                         | 
 |-----------------------------------------------|
-| SIEM Implementation and Log Analysis          | 
-| Network Traffic Monitoring and Attack Detection |
-| Security Automation with Shuffle SOAR         | 
-| Incident Response Planning and Execution      | 
-| Case Management with TheHive                  | 
-| Scripting and Automation for Threat Mitigation | 
+| Ethical Hacking |
+| Network Analysis |
+| Incident Response | 
+| Malware Analysis | 
+| Vulnerability Assessments |
+| Penetration Testing | 
+| SQL Injection | 
+| Cryptography |
+| Cloud Computing |
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
