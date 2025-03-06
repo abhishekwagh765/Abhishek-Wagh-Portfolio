@@ -79,6 +79,6 @@ Nmap Scanner, Wireshark, Metasploit, Angry IP-Scanner, OWASP ZAP, Splunk, Nessus
 </div>
 
 ## Projects
--Vulnerability Assessment Penetration Lab
--BruteX - Password Cracking Tool.
--Netcat ChatBridge
+- Vulnerability Assessment Penetration Lab.
+- BruteX - Password Cracking Tool.
+- Netcat ChatBridge.
