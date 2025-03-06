@@ -1,5 +1,6 @@
 # Hello, I'm Abhishek Ravindra Wagh 
-CyberSecurity Analyst And Pentester
+# CyberSecurity Analyst And Pentester
+
 <a href="https://www.linkedin.com/in/abhishekwagh7/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Cybersecurity enthusiast with hands-on experience in penetration testing, vulnerability assessments, and incident response. As a Cybersecurity Analyst Intern at Aarna Technologies, I gained expertise in real-time threat analysis, malware detection, and security event management using industry-standard tools. My technical skills include ethical hacking, network analysis, and malware analysis, with certifications such as Certified Ethical Hacker (CEH) and Certified in Cybersecurity (ISC2) bolstering my credentials. Proficient in tools like Nessus, Metasploit, and Wireshark, I am passionate about leveraging advanced methodologies to address complex cybersecurity challenges and enhance security resilience.
