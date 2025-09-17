@@ -12,17 +12,16 @@ I am a recent graduate with a profound interest in Cybersecurity and a dedicatio
 
 ## Internships / Work Experience
 <div>
-    <img src="https://img.shields.io/badge/-Cybersecurity Intern– Aarna Technologies Pune, India-4D4D4D?&style=for-the-badge&logo=Netsparker&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Vulnerability Analyst-4D4D4D?&style=for-the-badge&logo=Netsparker&logoColor=white" />
 </div>
 
-Engaged in real-time cybersecurity training and internship in a live environment, gaining hands-on experiencewith practical security challenges. 
+• Managed vulnerability lifecycle across 200+ servers and 800+ endpoints with Qualys VMDR.
 
-Monitored and triaged security events proactively, analysing security alerts to determine whether they were false positives or actual security incidents, leveraging a range of tools and log files.
+• Performed weekly external and monthly internal scans using Qualys VMDR (authenticated, unauthenticated, patch validation, compliance).
 
-Conducted comprehensive vulnerability assessments and Malware analysis using industry-standard tools such as Nessus and Any-Run, generating detailed reports and providing actionable recommendations for risk mitigation.
+• Implemented vulnerability workarounds and compensating controls including WAF rules, and SIEM detection rules for legacy and end-of-life systems to mitigate risk   and maintain compliance.
 
-Recognize potential, successful, and unsuccessful intrusion attempts and compromises through reviews andanalysis of relevant event detail and summary information.
-
+• Delivered monthly and quarterly executive dashboards to CISO and GRC teams, highlighting SLA trends, remediation progress, and exception status to drive informed   risk decisions and compliance alignment.
 ## Skills
 
 
