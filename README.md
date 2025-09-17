@@ -12,7 +12,7 @@ I am a recent graduate with a profound interest in Cybersecurity and a dedicatio
 
 ## Internships / Work Experience
 <div>
-    <img src="https://img.shields.io/badge/-Vulnerability Analyst- CybersecXperts-4D4D4D?&style=for-the-badge&logo=Netsparker&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Vulnerability Analyst CybersecXperts -4D4D4D?&style=for-the-badge&logo=Netsparker&logoColor=white" />
 </div>
 
 • Managed vulnerability lifecycle across 200+ servers and 800+ endpoints with Qualys VMDR.
