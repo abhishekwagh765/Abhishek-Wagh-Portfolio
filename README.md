@@ -12,7 +12,7 @@ I am a recent graduate with a profound interest in Cybersecurity and a dedicatio
 
 ## Internships / Work Experience
 <div>
-    <img src="https://img.shields.io/badge/-Vulnerability Analyst-4D4D4D?&style=for-the-badge&logo=Netsparker&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Vulnerability Analyst- CybersecXperts-4D4D4D?&style=for-the-badge&logo=Netsparker&logoColor=white" />
 </div>
 
 • Managed vulnerability lifecycle across 200+ servers and 800+ endpoints with Qualys VMDR.
@@ -22,6 +22,7 @@ I am a recent graduate with a profound interest in Cybersecurity and a dedicatio
 • Implemented vulnerability workarounds and compensating controls including WAF rules, and SIEM detection rules for legacy and end-of-life systems to mitigate risk   and maintain compliance.
 
 • Delivered monthly and quarterly executive dashboards to CISO and GRC teams, highlighting SLA trends, remediation progress, and exception status to drive informed   risk decisions and compliance alignment.
+
 ## Skills
 
 
