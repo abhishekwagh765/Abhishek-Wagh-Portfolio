@@ -1,14 +1,20 @@
-# Hello, I'm Abhishek Ravindra Wagh 
-# Vulnerability Analyst
+# 👋 Hello, I'm Abhishek Ravindra Wagh  
+### 🔎 Vulnerability Analyst | Cybersecurity Enthusiast  
 
+<a href="https://www.linkedin.com/in/abhishekwagh7/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<a href="https://www.linkedin.com/in/abhishekwagh7/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+---
 
-## Objective
+## 🎯 Objective  
 
-Motivated and detail-oriented Cybersecurity enthusiast with strong hands-on experience in Vulnerability Management and Incident Response. Proficient in ethical hacking, threat analysis, and security auditing, with a demonstrated ability to identify, exploit, and mitigate security vulnerabilities. Eager to contribute to organizational cyber resilience and continuous improvement of security posture.
+Motivated and detail-oriented **Cybersecurity professional** with hands-on experience in **Vulnerability Management, Penetration Testing, and Incident Response**.  
+Proficient in **ethical hacking, threat analysis, and security auditing**, with a proven ability to identify, exploit, and mitigate security vulnerabilities.  
 
-I am a recent graduate with a profound interest in Cybersecurity and a dedication to solving complex problems.
+Eager to contribute to enhancing organizational **cyber resilience** while driving continuous improvement of the overall security posture.  
+As a recent graduate, I bring **fresh perspectives, strong technical foundations, and a passion for solving complex cybersecurity challenges.**  
+
 
 ## Internships / Work Experience
 <div>
