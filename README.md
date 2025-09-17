@@ -11,7 +11,6 @@
 
 Motivated and detail-oriented **Cybersecurity professional** with hands-on experience in **Vulnerability Management, Penetration Testing, and Incident Response**.  
 Proficient in **ethical hacking, threat analysis, and security auditing**, with a proven ability to identify, exploit, and mitigate security vulnerabilities.  
-
 Eager to contribute to enhancing organizational **cyber resilience** while driving continuous improvement of the overall security posture.  
 As a recent graduate, I bring **fresh perspectives, strong technical foundations, and a passion for solving complex cybersecurity challenges.**  
 
