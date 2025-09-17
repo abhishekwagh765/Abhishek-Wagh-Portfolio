@@ -26,20 +26,14 @@ I am a recent graduate with a profound interest in Cybersecurity and a dedicatio
 ## Skills
 
 
-| Skill                                         | 
-|-----------------------------------------------|
-| Ethical Hacking |
-| Network Analysis |
-| Incident Response | 
-| Malware Analysis | 
-| Vulnerability Assessments |
-| Penetration Testing | 
-| SQL Injection | 
-| Cryptography |
-| Cloud Computing |
+## 🛠️ Technical Skills
 
-## Tools
-Nmap Scanner, Wireshark, Metasploit, Angry IP-Scanner, OWASP ZAP, Splunk, Nessus, Pentbox, VeraCrypt, Burp suite, Snort, Hydra, John The Ripper, Linux, Parrot OS, Windows.
+- 🔐 **Technical Skills:** Vulnerability Management, Pen-Testing, Web-Application Security, Validation Testing  
+- 🛡️ **Security Tools:** Qualys VMDR, Nessus, OpenVAS, Splunk (SIEM), Metasploit, WAF, IPS, Proxy, ServiceNow, Nmap Scanner, Wireshark
+- 💻 **Platforms / OS:** Linux, Windows, Parrot OS, Android  
+- 🧩 **System Hardening:** Windows, Linux, Firewalls, IPS, Applications 
+
+
 
 ### Network
 <div>
